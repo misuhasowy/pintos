@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "synch.h": "c",
+        "boundary.h": "c",
+        "lib.h": "c",
+        "syscall.h": "c",
+        "*.inc": "c",
+        "*.tcc": "c",
+        "string_view": "c",
+        "main.h": "c"
+    }
+}
